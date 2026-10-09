@@ -1,0 +1,4 @@
+*.htaccess linguist-language=ApacheConf
+*.php linguist-language=PHP
+*.phtml linguist-language=PHP
+*.inc linguist-language=PHP
