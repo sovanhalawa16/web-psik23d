@@ -1,0 +1,21 @@
+{
+  "name": "Jadwal PSIK 23 D",
+  "short_name": "PSIK 23 D",
+  "start_url": "/jadwal/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#3b82f6",
+  "description": "Aplikasi Jadwal Perkuliahan PSIK 23 D",
+  "icons": [
+    {
+      "src": "../assets/img/logo_kelas.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "../assets/img/logo_kelas.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
